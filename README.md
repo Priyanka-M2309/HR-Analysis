@@ -18,7 +18,7 @@ This Power BI project aims to analyze various aspects of Human Resources (HR) da
     iii) Data Cleaning using Power Query and Creating Necessory Columns.
     iv) Data Visualization
     
-## Key Metrics and Visualizations: 
+## KEY METRICS & VISUALIZATIONS: 
 
 
     1) Attrition Rate Over Time
