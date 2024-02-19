@@ -32,4 +32,4 @@ This Power BI project aims to analyze various aspects of Human Resources (HR) da
 
 ## DASHBOARD:
 
-![Netflix](https://.png)
+![Netflix](https://github.com/Priyanka-M2309/HR-Analysis/blob/main/Dashboard.jpg)
